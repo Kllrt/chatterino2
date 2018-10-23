@@ -130,7 +130,6 @@ public slots:
     void copyToClipboard();
     void showSearch();
     void showViewerList();
-    void reloadChannelAndSubscriberEmotes();
 };
 
 }  // namespace chatterino
